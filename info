@@ -1,1 +1,4 @@
-This file will contain the information for our bo7 lab. we are writing a program that includes polynomials.
+This file will contain the information for our bo7 lab. we are writing a program that includes polynomials and performs 
+functions on these polynomials. Our task is to develop a class that represents the polynomial object, and inside this class, 
+we must define methods such as add, hasRoot, and evaluate, each of which has its own function. We also defined a field for the polynomials using
+a array of type double, which stores the coefficients of our polynomials.
